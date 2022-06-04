@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to my first file on github"
+title: "Welcome to my first file."
 
 ---
 
